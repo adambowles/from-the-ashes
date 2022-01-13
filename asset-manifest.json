@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/from-the-ashes/static/css/main.073c9b0a.css",
+    "main.js": "/from-the-ashes/static/js/main.03aaac85.js",
+    "static/js/787.a524e3f8.chunk.js": "/from-the-ashes/static/js/787.a524e3f8.chunk.js",
+    "static/media/logo.svg": "/from-the-ashes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/from-the-ashes/index.html",
+    "main.073c9b0a.css.map": "/from-the-ashes/static/css/main.073c9b0a.css.map",
+    "main.03aaac85.js.map": "/from-the-ashes/static/js/main.03aaac85.js.map",
+    "787.a524e3f8.chunk.js.map": "/from-the-ashes/static/js/787.a524e3f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.03aaac85.js"
+  ]
+}
